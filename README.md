@@ -22,9 +22,16 @@
 
 - 英文原版：[https://leanpub.com/kotlin-for-android-developers](https://leanpub.com/kotlin-for-android-developers)
 
-- 《Kotlin Language Documentation》  [https://kotlinlang.org/docs/kotlin-docs.pdf] (https://kotlinlang.org/docs/kotlin-docs.pdf)
+- 《Kotlin Language Documentation》 
+	
+	[https://kotlinlang.org/docs/kotlin-docs.pdf](https://kotlinlang.org/docs/kotlin-docs.pdf)
+
+-	Programming Kotlin   
+
+	[http://smtebooks.com/book/3578/programming-kotlin-pdf](http://smtebooks.com/book/3578/programming-kotlin-pdf) 
 
 - Kotlin视频教程:
+
     [https://github.com/enbandari/Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials
    
     
