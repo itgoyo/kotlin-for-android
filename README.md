@@ -22,6 +22,8 @@
 
 英文原版：[https://leanpub.com/kotlin-for-android-developers](https://leanpub.com/kotlin-for-android-developers)
 
+- 《Kotlin Language Documentation》  [https://kotlinlang.org/docs/kotlin-docs.pdf] (https://kotlinlang.org/docs/kotlin-docs.pdf)
+
 - Kotlin视频教程:
     [https://github.com/enbandari/Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials)
 
