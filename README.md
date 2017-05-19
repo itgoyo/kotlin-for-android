@@ -24,9 +24,17 @@
 
 - 《Kotlin Language Documentation》
 
-	1.英文版  [https://kotlinlang.org/docs/kotlin-docs.pdf](https://kotlinlang.org/docs/kotlin-docs.pdf)
+	1.英文版  
 
-  2.中文版  [https://www.kotlincn.net/docs/kotlin-docs.pdf](https://www.kotlincn.net/docs/kotlin-docs.pdf)
+  官方地址：[https://kotlinlang.org/docs/kotlin-docs.pdf](https://kotlinlang.org/docs/kotlin-docs.pdf)
+
+  本站地址：[https://github.com/kotlinandroid/kotlin-for-android/blob/master/kotlin-docs-en.pdf](https://github.com/kotlinandroid/kotlin-for-android/blob/master/kotlin-docs-en.pdf)
+
+  2.中文版  
+
+  官方地址：[https://www.kotlincn.net/docs/kotlin-docs.pdf](https://www.kotlincn.net/docs/kotlin-docs.pdf)
+
+  本站地址：[https://github.com/kotlinandroid/kotlin-for-android/blob/master/kotlin-docs-chs.pdf](https://github.com/kotlinandroid/kotlin-for-android/blob/master/kotlin-docs-chs.pdf)
 
 -	Programming Kotlin   
 
