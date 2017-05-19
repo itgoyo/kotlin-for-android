@@ -8,12 +8,12 @@
 - Kotlin官方资料Github地址:
 
     [https://github.com/JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-    
+
 - 官方中文翻译地址:
 
     [https://www.kotlincn.net/docs/reference/](https://www.kotlincn.net/docs/reference/)
     [https://www.gitbook.com/book/hltj/kotlin-reference-chinese/details](https://www.gitbook.com/book/hltj/kotlin-reference-chinese/details)
-    
+
 - 《Kotlin for android developers》中文版翻译
 
     [https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/README.md](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/README.md)
@@ -22,21 +22,20 @@
 
 - 英文原版：[https://leanpub.com/kotlin-for-android-developers](https://leanpub.com/kotlin-for-android-developers)
 
-- 《Kotlin Language Documentation》 
-	
-	[https://kotlinlang.org/docs/kotlin-docs.pdf](https://kotlinlang.org/docs/kotlin-docs.pdf)
+- 《Kotlin Language Documentation》
+
+	1.英文版  [https://kotlinlang.org/docs/kotlin-docs.pdf](https://kotlinlang.org/docs/kotlin-docs.pdf)
+
+  2.中文版  [https://www.kotlincn.net/docs/kotlin-docs.pdf](https://www.kotlincn.net/docs/kotlin-docs.pdf)
 
 -	Programming Kotlin   
 
-	[http://smtebooks.com/book/3578/programming-kotlin-pdf](http://smtebooks.com/book/3578/programming-kotlin-pdf) 
+	[http://smtebooks.com/book/3578/programming-kotlin-pdf](http://smtebooks.com/book/3578/programming-kotlin-pdf)
 
 - Kotlin视频教程:
 
     [https://github.com/enbandari/Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials
-   
-    
-    
- 1. 百度云  (链接: https://pan.baidu.com/s/1kUDA203 密码: mv2
 
- 2. 腾讯视频    [http://v.qq.com/boke/gplay/903446d6231d8612d198c58fb86eb4dc_t6d000101bd9lx1.html](http://v.qq.com/boke/gplay/903446d6231d8612d198c58fb86eb4dc_t6d000101bd9lx1.html)
+   1.百度云  (链接: https://pan.baidu.com/s/1kUDA203 密码: mv2
 
+   2.腾讯视频    [http://v.qq.com/boke/gplay/903446d6231d8612d198c58fb86eb4dc_t6d000101bd9lx1.html](http://v.qq.com/boke/gplay/903446d6231d8612d198c58fb86eb4dc_t6d000101bd9lx1.html)
