@@ -20,14 +20,14 @@
 1. [在线阅读或下载GitBook](https://www.gitbook.com/book/wangjiegulu/kotlin-for-android-developers-zh/details)
 2. [在线阅读](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)
 
-英文原版：[https://leanpub.com/kotlin-for-android-developers](https://leanpub.com/kotlin-for-android-developers)
+- 英文原版：[https://leanpub.com/kotlin-for-android-developers](https://leanpub.com/kotlin-for-android-developers)
 
 - 《Kotlin Language Documentation》  [https://kotlinlang.org/docs/kotlin-docs.pdf] (https://kotlinlang.org/docs/kotlin-docs.pdf)
 
 - Kotlin视频教程:
-    [https://github.com/enbandari/Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials)
+    [https://github.com/enbandari/Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials
+    1.百度云  (链接: https://pan.baidu.com/s/1kUDA203 密码: mv26
 
-百度云  (链接: https://pan.baidu.com/s/1kUDA203 密码: mv26)
 
-腾讯视频    [http://v.qq.com/boke/gplay/903446d6231d8612d198c58fb86eb4dc_t6d000101bd9lx1.html](http://v.qq.com/boke/gplay/903446d6231d8612d198c58fb86eb4dc_t6d000101bd9lx1.html)
+    2.腾讯视频    [http://v.qq.com/boke/gplay/903446d6231d8612d198c58fb86eb4dc_t6d000101bd9lx1.html](http://v.qq.com/boke/gplay/903446d6231d8612d198c58fb86eb4dc_t6d000101bd9lx1.html)
 
