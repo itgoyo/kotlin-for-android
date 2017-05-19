@@ -34,7 +34,7 @@
 
 - Kotlin视频教程:
 
-    [https://github.com/enbandari/Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials
+   Github地址： [https://github.com/enbandari/Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials)
 
    1.百度云  (链接: https://pan.baidu.com/s/1kUDA203 密码: mv2
 
